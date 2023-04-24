@@ -6,7 +6,8 @@ payeeId,period,ruleName,currency,value
 100005,October 2019,DR_New_Credit,USD,2100.00
 100006,December 2019,CR_New_Credit,USD,500.00
 100007,November 2019,CR_New_Credit,USD,6000.00
-100008,November 2019,CR_New_Credit,USD,6000.00
-100009,November 2019,CR_New_Credit,USD,6000.00
-100010,November 2019,CR_New_Credit,USD,6000.00
-100011,November 2019,CR_New_Credit,USD,6000.00
+100008,November 2019,CR_New_Credit,USD,8000.00
+100009,November 2019,CR_New_Credit,USD,9000.00
+100010,November 2019,CR_New_Credit,USD,1000.00
+100011,November 2019,CR_New_Credit,USD,2300.00
+100012,November 2019,CR_New_Credit,USD,60200.00
