@@ -17,10 +17,10 @@ Create Table Minjie (
 --preconditions onFail:CONTINUE
 --comment: Initial creation of table Yogananda
 --validCheckSum: ANY
-Create Table Payments1 (
+Create Table Payments2 (
    ID INTEGER,
    NAME VARCHAR(10),
    PRIMARY KEY (ID)
 );
  
---rollback drop table Payments;
+--rollback drop table Payments2;
